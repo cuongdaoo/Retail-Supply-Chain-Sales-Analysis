@@ -31,12 +31,6 @@ To tackle this real-world data challenge, I:
 * 🎨 **Designed a clean, interactive dashboard** with a focus on storytelling, usability, and actionable insight
 * 🧭 Balanced **analytical depth** with an intuitive **UI/UX** to suit both technical and non-technical users
 
-## 🔍 Key Features
-
-* ✅ **Revenue Forecasting**: Discover sales patterns to inform future planning
-* ✅ **Logistics Optimization**: Identify bottlenecks and reduce delays
-* ✅ **Returns Analysis**: Predict return trends and improve product quality
-* ✅ **Inventory Management**: Improve visibility and avoid overstock/stockouts
 
 ## 💡 What You’ll Learn
 
