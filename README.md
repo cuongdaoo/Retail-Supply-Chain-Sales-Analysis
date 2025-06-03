@@ -77,7 +77,6 @@ This project highlights several advanced Power BI techniques, including:
 ## 🌐 Explore the Project
 
 * 🔗 **Live Power BI Dashboard**: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg2ZjYyZTMtNWVmNi00ZTY2LTlmYTUtNzM3ZWZjZTJiYjJiIiwidCI6IjA0NjRjNWRlLTQzNmItNDJjMi05NzQ4LTc0NTZmNWQzYTU2NCIsImMiOjEwfQ%3D%3D)
-* 📂 **GitHub Repository**: [View on GitHub](https://github.com/cuongdaoo/Retail-Supply-Chain-Sales-Analysis)
 * 📊 **Dataset Source**: [View on Kaggle](https://www.kaggle.com/datasets/shandeep777/retail-supply-chain-sales-dataset)
 
 ---
@@ -86,3 +85,8 @@ This project highlights several advanced Power BI techniques, including:
 
 This project was both a technical challenge and a creative exercise. By turning messy, complex data into an intuitive, insight-driven dashboard, I aimed to show how data storytelling can power smarter decisions in retail.
 If you're interested in learning more about building compelling dashboards, using DAX, or making sense of messy data—this project is a great place to start!
+
+---
+Connect me:
+* **Linkedin**: [Cuong Dao](https://www.linkedin.com/in/daovietcuong/)
+* **Email**: daocuong.data@gmail.comcom
