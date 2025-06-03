@@ -23,6 +23,9 @@ In today’s competitive retail landscape, data-driven decisions are key. This p
 This interactive dashboard empowers stakeholders to explore these insights with clarity and confidence.
 
 ## 🧠 What I Built
+<div align="center", width="600" height="373.5">
+  <img src="https://github.com/user-attachments/assets/c4940664-7120-49b9-b16f-cf4f64b59d79">
+</div>
 
 To tackle this real-world data challenge, I:
 
