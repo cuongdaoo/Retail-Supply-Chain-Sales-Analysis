@@ -36,9 +36,11 @@ To tackle this real-world data challenge, I:
 
 This project highlights several advanced Power BI techniques, including:
 
-* 🧠 Creating **dynamic titles** and **conditional visuals** using **DAX**
-* 🔄 Designing **interactive filters, bookmarks, and navigation tools**
-* 🔍 Connecting fragmented datasets to surface **hidden trends and root causes**
+* Creating **dynamic titles** and **conditional visuals** using **DAX**
+* Designing **interactive filters, bookmarks, and navigation tools**
+* Connecting fragmented datasets to surface **hidden trends and root causes**
+* Using measures over calculated columns for efficiency and scalability
+* Implementing row-level filters and page navigation tricks to improve interactivity
 
 ## Recomendation
 
